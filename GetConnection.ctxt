@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GetConnection
+comment0.text=\n\ The\ GetConnection\ calss\ contains\ constractor\ and\ method\ to\ save\ booklist\ and\ userlist\ into\ database.\n\ \n\ @author\ Li\ Tang\n\ @version\ 2017.11.22\n
+comment1.params=
+comment1.target=java.sql.Connection\ getConnection()
+comment1.text=\n\ Connect\ to\ MySQL\ Database.\ \n
+comment2.params=sql
+comment2.target=void\ update(java.lang.String)
+comment2.text=\n\ Modify\ information\ of\ books\ or\ users\ on\ the\ database.\n\ \n\ @param\ sql\ statement\ such\ as\ "UPDATE\ bookList\ SET\ ID\=783950\ WHERE\ ID\=1"\ or\ "UPDATE\ userList\ SET\ Username\='Mike'\ WHERE\ Username\='M'"\n
+comment3.params=
+comment3.target=void\ closeDB()
+comment3.text=\n\ Close\ Datebase.\n\ closeDB\ can\ also\ be\ called\ by\ methods\ in\ other\ classes.\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

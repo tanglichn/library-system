@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Loans
+comment0.text=\n\ The\ Loans\ class\ contains\ methods\ to\ record\ and\ return\ users'\ loan\ details.\ \n\n\ @author\ Li\ Tang\n\ @version\ 2017.11.19\n
+comment1.params=
+comment1.target=Loans()
+comment1.text=\n\ create\ a\ loans\ to\ record\ users'\ loan\ detail.\ \n
+comment2.params=loan
+comment2.target=void\ borrowBook(Loan)
+comment2.text=\n\ A\ method\ to\ add\ a\ user's\ loan\ record\ into\ collection.\ \n\n\ @param\ \ loan\ The\ loan\ to\ be\ added.\ \n
+comment3.params=loan
+comment3.target=void\ returnBook(Loan)
+comment3.text=\n\ A\ method\ to\ remove\ a\ user's\ loan\ record\ frome\ collection.\ \n\n\ @param\ \ loan\ The\ loan\ to\ be\ removed.\ \n
+comment4.params=user
+comment4.target=int\ returnTotalbooks(Users)
+comment4.text=\n\ A\ method\ to\ count\ and\ return\ the\ total\ number\ of\ books\ a\ user\ is\ currently\ borrowing.\ \n\n\ @return\ return\ the\ number\ of\ books\ a\ user\ is\ currently\ borrowing.\n
+comment5.params=returnyear\ returnmonth\ returnday
+comment5.target=java.util.ArrayList\ returnOverduebook(int,\ int,\ int)
+comment5.text=\n\ A\ method\ to\ return\ all\ the\ overdue\ books\ along\ with\ the\ users\u2019\ username\ and\ firstname.\ \n\n\ @param\ \ returnyear,\ returnmonth,\ returnday\ \ compared\ with\ overduetime\ to\ find\ overdue\ book.\n\ @return\ \ return\ a\ String\ list\ contains\ booktitle,\ username\ and\ firstname.\ \n
+comment6.params=ID
+comment6.target=java.util.ArrayList\ returnDetailofgivenbook(int)
+comment6.text=\n\ A\ method\ to\ return\ the\ firstname,\ surname\ and\ email\ address\ name\ of\ a\ borrower\ of\ a\ given\ book.\n\n\ @param\ \ ID\ search\ the\ ID\ to\ find\ the\ user\ details.\n\ @return\ \ return\ a\ collection\ contains\ firstname,\ surname\ and\ email\ address\ name.\n
+comment7.params=
+comment7.target=java.util.ArrayList\ returnBooksbymultipleusers()
+comment7.text=\n\ A\ method\ to\ return\ those\ books\ that\ are\ currently\ on\ loan\ by\ multiple\ users.\n\n\ @return\ \ return\ a\ collection\ contain\ those\ books.\ \n
+numComments=8

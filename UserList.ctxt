@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UserList
+comment0.text=\n\ The\ UserList\ class\ contains\ method\ to\ sotre\ uers\ in\ collection\ and\ database.It\ aols\ have\ methods\ to\ remove\ users,\ count\ number\ of\ users\ and\ return\ users'\ detail.\n\n\ @author\ Li\ Tang\n\ @version\ 2017.11.02\n
+comment1.params=
+comment1.target=UserList()
+comment1.text=\n\ Create\ a\ uselist.\n
+comment2.params=users
+comment2.target=void\ addUsers(Users)
+comment2.text=\n\ Add\ users\ to\ the\ collection\ and\ users\ will\ also\ be\ saved\ in\ database\ by\ using\ GetConnection\ class.\n\n\ @param\ \ users\ \ The\ user\ to\ be\ added.\n
+comment3.params=firstname
+comment3.target=void\ removeUsers(java.lang.String)
+comment3.text=\n\ A\ method\ to\ remove\ a\ user\ from\ the\ collection\ by\ giving\ the\ user\u2019s\ firstname\ and\ inform\ program\ users\ if\ there\ are\ two\ or\ more\ users\ with\ same\ firstname.\n\n\ @param\ \ firstname\ \ search\ the\ firstname\ to\ match.\n
+comment4.params=
+comment4.target=int\ countNumberofusers()
+comment4.text=\n\ A\ method\ to\ count\ the\ number\ of\ users\ in\ the\ system.\n\n\ @return\ \ return\ number\ of\ users.\n
+comment5.params=username
+comment5.target=void\ getUsersdetail(java.lang.String)
+comment5.text=\n\ A\ method\ to\ return\ a\ user\u2019s\ detail\ by\ the\ username.\n\n\ @param\ \ username\ \ search\ usrname\ to\ match.\ \n
+numComments=6

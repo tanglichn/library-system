@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\n\ The\ Log\ class\ represent\ a\ interface\ for\ user\ log\ in\ by\ input\ username\ and\ password.\n\ \n\ @author\ Li\ Tang\n\ @version\ 2017.11.23\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Log()
+comment2.text=\n\ design\ the\ log\ window.\n
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ if\ user\ entre\ correct\ username\ and\ password,\ it\ can\ go\ to\ next\ interface\ which\ created\ by\ class\ ModifyBooks\ and\ ModifyUsers.\n
+numComments=5

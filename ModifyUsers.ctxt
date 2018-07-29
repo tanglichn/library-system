@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ModifyUsers
+comment0.text=\n\ The\ ModifyUsers\ class\ create\ a\ screen\ for\ user\ input\ the\ new\ user\ details.\n\n\ @author\ Li\ Tang\n\ @version\ 2017.11.23\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=ModifyUsers()
+numComments=3

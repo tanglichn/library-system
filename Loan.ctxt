@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Loan
+comment0.text=\n\ The\ Loan\ class\ contains\ the\ method\ to\ record\ a\ user's\ loan\ detail\ and\ return\ those\ detail.\n\n\ @author\ Li\ Tang\n\ @version\ 2017.11.07\n
+comment1.params=book\ user\ overdueyear\ overduemonth\ overdueday
+comment1.target=Loan(Books,\ Users,\ int,\ int,\ int)
+comment1.text=\n\ create\ a\ loan\ to\ recored\ loan\ details.\n
+comment2.params=
+comment2.target=Users\ getUser()
+comment2.text=\n\ A\ method\ to\ return\ user.\n\n\ @return\ \ \ \ return\ the\ user.\n
+comment3.params=
+comment3.target=Books\ getBook()
+comment3.text=\n\ A\ method\ to\ return\ Book.\n\n\ @return\ \ \ \ return\ the\ Book.\n
+comment4.params=
+comment4.target=int\ getOverdueyear()
+comment4.text=\n\ A\ method\ to\ return\ Overdueyear.\n\n\ @return\ \ \ \ return\ the\ Overdueyear.\n
+comment5.params=
+comment5.target=int\ getOverduemonth()
+comment5.text=\n\ A\ method\ to\ return\ overduemonth.\n\n\ @return\ \ \ \ return\ the\ overduemonth.\n
+comment6.params=
+comment6.target=int\ getOverdueday()
+comment6.text=\n\ A\ method\ to\ return\ overdueday.\n\n\ @return\ \ \ \ return\ the\ overdueday.\n
+numComments=7
